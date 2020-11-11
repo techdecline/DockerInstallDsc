@@ -18,7 +18,7 @@ CompanyName = 'Bright Skies GmbH'
 Copyright = '(c) 2020 Cornelius Schuchardt. All rights reserved.'
 
 # Description of the functionality provided by this module
-# Description = ''
+Description = 'Powershell DSC Resource to install Docker for Windows on Windows Server'
 
 # Minimum version of the Windows PowerShell engine required by this module
 PowerShellVersion = '5.0'
